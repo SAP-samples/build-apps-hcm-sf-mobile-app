@@ -11,12 +11,8 @@ With SAP BTP, HRIS can create apps and tools without having to utilize external 
 ## Business Scenario
 
 **ACTING PERSONAS**:
-- **Neil Flores**
-  HR Business Partner, Americas
-  *What drives value for Neil Flores?*
-- **Barry Best**
-  HRIS Specialist
-  *What drives value for Barry Best?*
+- **Neil Flores**, HR Business Partner
+- **Barry Best**, HRIS Specialist
 
 **VALUE DRIVERS**
 * **Improve utilization of employee benefits**
