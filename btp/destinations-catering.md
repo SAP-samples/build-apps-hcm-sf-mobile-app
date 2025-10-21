@@ -1,4 +1,4 @@
-# Integration setup for 3rd Party Food Provider
+# Integration setup for Third Party Food Provider
 
 ## Introduction
 

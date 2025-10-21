@@ -52,4 +52,4 @@ In this exercise, you will learn how to integrate SAP SuccessFactors with SAP BT
 
 ## Next Step
 
-[Integration setup for 3rd Party Food Provider](./destinations-catering.md)
+[Integration setup for Third Party Food Provider](./destinations-catering.md)

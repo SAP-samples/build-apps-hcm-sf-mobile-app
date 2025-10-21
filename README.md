@@ -76,7 +76,7 @@ With SAP BTP, HRIS can create apps and tools without having to utilize external 
 
 1. [Subaccount Setup](./btp/setup.md)
 2. [Integration setup for Success Factors](./btp/destinations-sf.md)
-3. [Integration setup for 3rd Party Food Provider](./btp/destinations-catering.md)
+3. [Integration setup for Third Party Food Provider](./btp/destinations-catering.md)
 
 ### Creating application in SAP Build Apps
 
