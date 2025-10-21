@@ -1,4 +1,4 @@
-# SAP Success Factors Prerequisites
+# SAP SuccessFactors Prerequisites
 
 ## Introduction
 
@@ -14,6 +14,3 @@ Even though we will be using a sandbox from the SAP Business Accelerator Hub thr
 
 4. Read specification of your API. In this case we will use [Benefit OData V2 API](https://help.sap.com/docs/successfactors-platform/sap-successfactors-api-reference-guide-odata-v2/benefit).
 
-## Next Step
-
-[Landscape Setup](../btp/setup.md)

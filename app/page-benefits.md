@@ -1,4 +1,4 @@
-# Creating a page with the employee benefits
+# Creating Employee Benefits Page
 
 ## Introduction
 
@@ -142,7 +142,3 @@ In this exercise, you will create a new page to display employee benefits. For s
 29. Now your Employee's Benefit page is ready.
 
     ![](img/c29.png)
-
-## Next Step
-
-[Creating a page with meals](./page-meals.md)

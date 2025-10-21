@@ -1,4 +1,4 @@
-# Creating a page with meals
+# Creating Meals Page
 
 ## Introduction
 
@@ -210,7 +210,3 @@ In this exercise, you will build a page for placing lunch orders. As part of our
     ![](img/d33.png) 
 
 40. The **Order Lunch** page is ready now.
-
-## Next Step
-
-[Update Main Page](./main-page.md)

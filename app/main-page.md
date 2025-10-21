@@ -1,4 +1,4 @@
-# Update Main Page
+# Updating Main Page
 
 ## Introduction
 
@@ -144,7 +144,3 @@ In this task, you will update the application’s main page by adding navigation
 31. Choose **User Interface**. Now you can see the main page with the updated design.
 
     ![](img/e29.png)
-
-## Next Step
-
-[Preview Application](./preview.md)

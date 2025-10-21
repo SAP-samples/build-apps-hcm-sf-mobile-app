@@ -43,6 +43,3 @@ In this exercise, you will be working with a pre-made application template. This
 
     ![](img/a07.png)
 
-## Next Step
-
-[Adding integrations to the app](./integration.md)

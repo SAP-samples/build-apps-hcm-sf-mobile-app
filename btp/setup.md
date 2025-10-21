@@ -48,7 +48,4 @@ Subscriptions required in your SAP Business Technology Platform Account:
 
 7. Create a Cloud Foundry space.
 
-## Next Step
-
-[Integration setup for Success Factors](./destinations-sf.md)
 

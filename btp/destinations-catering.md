@@ -1,4 +1,4 @@
-# Integration setup for Third Party Food Provider
+# Integration Setup for Third Party Food Provider
 
 ## Introduction
 
@@ -56,7 +56,3 @@ In this exercise, you will implement an integration with a fictional catering co
     ![](./img/h08.png)
 
 12. The connectivity with the catering company is now set.
-
-## Next Step
-
-[Creating application in SAP Build Apps: Import template](../app/create-project.md)

@@ -1,4 +1,4 @@
-# Adding integrations to the app
+# Adding Integrations to the App
 
 ## Introduction
 
@@ -120,7 +120,3 @@ In this exercise, you will add integration with the external APIs:
 26. Now you have your external systems integrated.
 
     ![](img/b26.png)
-
-## Next Step
-
-[Creating a page with the employee benefits](./page-benefits.md)

@@ -1,4 +1,4 @@
-# Preview Application
+# Application Preview
 
 ## Introduction
 

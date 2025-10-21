@@ -1,4 +1,4 @@
-# Integration setup for Success Factors
+# Integration setup for SAP SuccessFactors
 
 ## Introduction
 
@@ -49,7 +49,3 @@ In this exercise, you will learn how to integrate SAP SuccessFactors with SAP BT
     ![](./img/g10.png)
 
 11. The connectivity with SAP Business Accelerator Hub is now set.
-
-## Next Step
-
-[Integration setup for Third Party Food Provider](./destinations-catering.md)

@@ -70,22 +70,22 @@ With SAP BTP, HRIS can create apps and tools without having to utilize external 
 ### Discovery and prerequisites
 
 1. [Discover SAP Build](./discover/sap-build.md)
-2. [Success Factors Prerequisites](./prerequisites/sf.md)
+2. [SAP SuccessFactors Prerequisites](./prerequisites/sf.md)
 
 ### Setup SAP BTP Subaccount
 
 1. [Subaccount Setup](./btp/setup.md)
-2. [Integration setup for Success Factors](./btp/destinations-sf.md)
+2. [Integration setup for SAP SuccessFactors](./btp/destinations-sf.md)
 3. [Integration setup for Third Party Food Provider](./btp/destinations-catering.md)
 
 ### Creating application in SAP Build Apps
 
-1. [Import template](./app/create-project.md)
-2. [Adding integrations to the app](./app/integration.md)
-3. [Creating a page with the employee benefits](./app/page-benefits.md)
-4. [Creating a page with meals](./app/page-meals.md)
-5. [Update main page](./app/main-page.md)
-6. [Preview Application](./app/preview.md)
+1. [Import Template](./app/create-project.md)
+2. [Adding Integrations to the App](./app/integration.md)
+3. [Creating Employee Benefits Page](./app/page-benefits.md)
+4. [Creating Meals Page](./app/page-meals.md)
+5. [Updating Main Page](./app/main-page.md)
+6. [Application Preview](./app/preview.md)
 
 ## Known Issues
 

@@ -13,7 +13,3 @@ Connect to SAP and non-SAP solutions securely with pre-built components, connect
 
 Review the available [SAP Build Apps](https://help.sap.com/docs/BUILD_APPS) documentation for further details
 
-## Next Step
-
-[SAP BTP Prerequisites](../prerequisites/sf.md)
-
